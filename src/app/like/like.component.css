@@ -1,0 +1,8 @@
+
+.fa{
+    color:cyan;
+        cursor: pointer;
+}
+.isActive{
+    color: red;  
+}
